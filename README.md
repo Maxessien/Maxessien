@@ -1,5 +1,5 @@
 <h1 align="center">What's up, I'm Max Essien</h1>
-<h3 align="center">A full stack developer who's still trying get better. Currently working on something really good.</h3>
+<h3 align="center">A full stack developer with goals. Currently working on something really good.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxessien&label=Profile%20views&color=0e75b6&style=flat" alt="maxessien" /> </p>
 
