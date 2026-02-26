@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxessien" alt="maxessien" /></a> </p>
 
-- 🔭 I’m currently working on [Lasu mart](https://github.com/Maxessien/Lasu-Mart-frontend)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Maxessien](https://github.com/Maxessien)
+- 👨‍💻 All of my projects are available at [https://github.com/Maxessien?tab=repositories](https://github.com/Maxessien?tab=repositories)
 
 - 📫 How to reach me **essienmax484@gmail.com**
 
