@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,rust,tauri,express,mongodb,python,tailwind,sass,firebase,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,rust,tauri,express,npm,mongodb,python,tailwind,sass,firebase,figma&theme=light" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maxessien&layout=compact&theme=white" alt="maxessien" /></p>
