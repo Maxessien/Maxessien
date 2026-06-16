@@ -1,4 +1,4 @@
-<h1 align="center">What's up, I'm Max Essien</h1>
+<h1 align="center">Max Essien</h1>
 <h3 align="center">A full stack developer with goals. Currently working on something really good.</h3>
 
 <p align="left">
